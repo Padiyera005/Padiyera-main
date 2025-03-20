@@ -17,7 +17,9 @@
     ✨ Open Profile ✨
   </summary>
 
-</details>
+<br>
+
+<details>
   <summary>💫 About Me</summary>
 
   <div align="center">
@@ -92,26 +94,23 @@
 </details>
 
 <details>
-  <summary>🚀My Personal Summary>
+  <summary>🚀Job Book</summary>
   
   <div align="center">
 
-[MySumary](https://github.com/Padiyera05/JobSumary)
-
-<h3 align="center">Angular</h2>
-
 Actividad | Descripción
 ----------|------------
-[1_Trimestre](https://raw.githubusercontent.com/Padiyera05/Web-Application-Deployment/refs/heads/main/Tr.1_Proyecto/Readme.md) | Proyecto 1
-[2_Trimestre](https://raw.githubusercontent.com/Padiyera05/Web-Application-Deployment/refs/heads/main/Tr.2_Proyecto/Myproyect2.md) | Proyecto 2
+[1_Week](https://raw.githubusercontent.com/Padiyera05/Job_Book/refs/heads/main/1_Week/Readme.md) | Proyecto 1
+[2_Week](https://raw.githubusercontent.com/Padiyera05/Job_Book/refs/heads/main/1_Week/Readme.md) | Proyecto 2
+</details>
 
 <details>
   <summary>🌐Contact</summary>
   <br>
-<a href="mailto:padialyeray05@gmail.com?subject=Hi%20user%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="padialyeray05@gmail.com?subject=Hi%20user%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </details>
 
-<details>
+</details>
 
 </div>
 
