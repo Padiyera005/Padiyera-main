@@ -94,32 +94,23 @@
 </details>
 
 <details>
-  <summary>🚀Web Application Deployment</summary>
+  <summary>🚀My Personal Summary>
   
   <div align="center">
 
-[Web-Application-Deployment](https://github.com/Padiyera/Web-Application-Deployment)
+[MySumary](https://github.com/Padiyera05/JobSumary)
 
-<h3 align="center">Proyecto</h2>
-
-Actividad | Descripción
-----------|------------
-[1_Trimestre](https://raw.githubusercontent.com/Padiyera/Web-Application-Deployment/refs/heads/main/Tr.1_Proyecto/Readme.md) | Proyecto 1
-[2_Trimestre](https://raw.githubusercontent.com/Padiyera/Web-Application-Deployment/refs/heads/main/Tr.2_Proyecto/Myproyect2.md) | Proyecto 2
-
-<h3 align="center">TEMA 1 - Servidores Web</h2>
+<h3 align="center">Angular</h2>
 
 Actividad | Descripción
 ----------|------------
-[Actividad 2 ](https://raw.githubusercontent.com/Padiyera/Web-Application-Deployment/refs/heads/main/T.1_ServidoresWeb/Act_2.TrabajandoConScripts)| Trabajando con scripts
-<br>
-</details>
+[1_Trimestre](https://raw.githubusercontent.com/Padiyera05/Web-Application-Deployment/refs/heads/main/Tr.1_Proyecto/Readme.md) | Proyecto 1
+[2_Trimestre](https://raw.githubusercontent.com/Padiyera05/Web-Application-Deployment/refs/heads/main/Tr.2_Proyecto/Myproyect2.md) | Proyecto 2
 
 <details>
   <summary>🌐Contact</summary>
   <br>
-   <a href="https://www.linkedin.com/in/mio/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:ypadbor947@g.educaand.es?subject=Hi%20user%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
+<a href="mailto:padialyeray05@gmail.com?subject=Hi%20user%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </details>
 
 </details>
