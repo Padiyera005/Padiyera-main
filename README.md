@@ -100,8 +100,17 @@
 
 Actividad | Descripción
 ----------|------------
-[1_Week](https://raw.githubusercontent.com/Padiyera05/Job_Book/refs/heads/main/1_Week/Readme.md) | Proyecto 1
-[2_Week](https://raw.githubusercontent.com/Padiyera05/Job_Book/refs/heads/main/1_Week/Readme.md) | Proyecto 2
+[1_Week](https://raw.githubusercontent.com/Padiyera05/Job_Book/refs/heads/main/1_Week/Readme.md) | Aprendiendo conceptos
+[2_Week](https://raw.githubusercontent.com/Padiyera05/Job_Book/refs/heads/main/1_Week/Readme.md) | 2 week
+</details>
+<details>
+  <summary>Personal Angular</summary>
+  
+  <div align="center">
+
+Actividad | Descripción
+----------|------------
+[Miniproyect](https://raw.githubusercontent.com/Padiyera05/Job_Book/refs/heads/main/1_Week/Readme.md) | Consumo Apis
 </details>
 
 <details>
