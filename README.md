@@ -24,11 +24,11 @@
 
   <div align="center">
   
-  - 🌱 I’m currently learning: Python
+  - 🌱 I’m currently learning: Angular
   - 👯 I’m looking to collaborate on my new webpage
   - 🤔 I love playing sports, but not as much as being a programmer
   - 💬 Ask me about new colaboration
-  - 📫 How to reach me:  Mail me at "ypadbor947@g.educaand.es"  
+  - 📫 How to reach me:  Mail me at "padialyeray05@gmail.com"  
   - ⚡ Fact: Think, reason, and act
   
   </div>
