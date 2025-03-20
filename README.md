@@ -17,9 +17,7 @@
     ✨ Open Profile ✨
   </summary>
 
-<br>
-
-<details>
+</details>
   <summary>💫 About Me</summary>
 
   <div align="center">
